@@ -1,0 +1,5 @@
+    this.cType,
+    this.lOwnerID,
+    this.bTracking,
+    this.geoTarget,
+    this.lTargetID

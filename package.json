@@ -1,0 +1,29 @@
+{
+  "name": "launch-ii-server",
+  "version": "1.0.0",
+  "description": "Server for Launch II, the sequel to Tobster's Launch!",
+  "main": "clientSession.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Launch-II/launch-ii-server.git"
+  },
+  "author": "Smoke3785",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Launch-II/launch-ii-server/issues"
+  },
+  "homepage": "https://github.com/Launch-II/launch-ii-server#readme",
+  "dependencies": {
+    "bytebuffer": "^5.0.1",
+    "chalk": "^4.1.2",
+    "crypto-js": "^4.1.1",
+    "fractional": "^1.0.0",
+    "readline": "^1.3.0",
+    "recursive-readdir": "^2.2.2",
+    "sequelize": "^6.12.0-alpha.1",
+    "xml2js": "^0.4.23"
+  }
+}
